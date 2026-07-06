@@ -1,1 +1,2 @@
-print("Pakistan")
+name=input("Pakistan")
+print(f"{name}","Pakistan")
