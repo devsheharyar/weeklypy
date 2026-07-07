@@ -1,3 +1,6 @@
 x= int(input("Please enter a first value "))
 y= int(input("Please enter a second value"))
-print(x+y)
+def addition(number,number2):
+    newn=number+number2
+    return newn
+print(addition(x,y))
